@@ -1,0 +1,19 @@
+#!/bin/bash
+clear
+#--------------------------
+#      SAFE CLOUD
+#    QUALIDADE SEMPRE
+#--------------------------
+
+# Baixar instalador do fast
+wget https://github.com/ddo/fast/releases/download/v0.0.4/fast_linux_amd64
+
+# Executar instalador do fast
+sudo install fast_linux_amd64 /usr/local/bin/fast
+
+# Excluir instalador do fast
+rm -r fast_linux_amd64
+
+# Executar fast
+echo "Para realizar o teste de velocidade utilize o comando "fast" no terminal"
+fast
