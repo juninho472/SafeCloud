@@ -2,7 +2,7 @@
 clear
 #--------------------------
 # SSH-PLUS
-# CANAL TELEGRAM: @ALFAINTERNET
+# CANAL TELEGRAM: @SAFECLOUDSERVER
 #--------------------------
 
 # - Atualiza Lista/Pacotes/Sistema
@@ -11,4 +11,4 @@ apt update -y && apt upgrade -y
 apt install unzip python3 -y
 
 # - Execulta instalador
-wget https://raw.githubusercontent.com/KDUIVGUVIVIRT/F/main/F2/Plus && chmod 777 Plus && ./Plus
+wget https://raw.githubusercontent.com/juninho472/SafeCloud/main/ssh1/F2/Plus && chmod 777 Plus && ./Plus
