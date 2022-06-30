@@ -1,9 +1,9 @@
 #!/bin/bash
 #====================================================
-#	SCRIPT: ALFAINTERNET
+#	SCRIPT: SAFECLOUDSERVER
 #       DATA ATT:   10 de julho 2022
-#	DESENVOLVIDO POR:	ALFAINTERNET
-#	CANAL TELEGRAM:	http://t.me/ALFAINTERNET
+#	DESENVOLVIDO POR:	SAFECLOUDSERVER
+#	CANAL TELEGRAM:	http://t.me/SAFECLOUDSERVER
 #====================================================
 _lvk=$(wget -qO- https://raw.githubusercontent.com/AKBSIJSHSI/MASTER/main/Install/versao)
 IP=$(wget -qO- ipv4.icanhazip.com)
