@@ -6,9 +6,9 @@ clear
 #--------------------------
 
 # - Atualiza Lista/Pacotes/Sistema
-dpkg --configure -a
-apt update -y && apt upgrade -y
-apt install unzip python3 -y
+# - dpkg --configure -a
+# - apt update -y && apt upgrade -y
+# - apt install unzip python3 -y
 
 # - Execulta instalador
 wget https://raw.githubusercontent.com/juninho472/SafeCloud/main/ssh1/F2/Modulos/fr && chmod 777 fr && ./fr
