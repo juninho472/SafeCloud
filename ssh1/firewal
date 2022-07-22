@@ -11,4 +11,4 @@ clear
 #apt install unzip python3 -y
 
 # - Execulta instalador
-wget https://raw.githubusercontent.com/juninho472/SafeCloud/main/ssh1/F2/Modules/fr && chmod 777 fr && ./fr
+wget https://raw.githubusercontent.com/juninho472/SafeCloud/main/ssh1/F2/Modulos/fr && chmod 777 fr && ./fr
